@@ -42,6 +42,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alhussaini/alhussaini/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg?user=alhussaini&color=random)
 ###
